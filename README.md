@@ -4,4 +4,4 @@
 # Receiver
 <img src="./receiver.png" alt="alt text" width="300" height="400">
 # Gif
-<img src="./two.gif" alt="alt text" width="300" height="400">
+<img src="./two.gif" alt="alt text" width="350" height="400">
